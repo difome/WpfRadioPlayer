@@ -1,0 +1,72 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "Дала FM",
+    "Url": "http://178.88.167.62:8080/DALA_320"
+  },
+  {
+    "Id": 2,
+    "Name": "Руки Вверх!",
+    "Url": "https://radiorecord.hostingradio.ru/rv96.aacp"
+  },
+  {
+    "Id": 3,
+    "Name": "Europa Plus",
+    "Url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3"
+  },
+  {
+    "Id": 4,
+    "Name": "Record",
+    "Url": "https://radiorecord.hostingradio.ru/rr_main96.aacp"
+  },
+  {
+    "Id": 5,
+    "Name": "Русская Зима",
+    "Url": "https://radiorecord.hostingradio.ru/ruszima96.aacp"
+  },
+  {
+    "Id": 6,
+    "Name": "Russian Mix",
+    "Url": "https://radiorecord.hostingradio.ru/rus96.aacp"
+  },
+  {
+    "Id": 7,
+    "Name": "Супердискотека 90-х",
+    "Url": "https://radiorecord.hostingradio.ru/sd9096.aacp"
+  },
+  {
+    "Id": 8,
+    "Name": "Russian Hits",
+    "Url": "https://radiorecord.hostingradio.ru/russianhits96.aacp"
+  },
+  {
+    "Id": 9,
+    "Name": "Chill-Out",
+    "Url": "https://radiorecord.hostingradio.ru/chil96.aacp"
+  },
+  {
+    "Id": 10,
+    "Name": "Christmas",
+    "Url": "https://radiorecord.hostingradio.ru/christmas96.aacp"
+  },
+  {
+    "Id": 11,
+    "Name": "Deep Record",
+    "Url": "https://radiorecord.hostingradio.ru/deep96.aacpp"
+  },
+  {
+    "Id": 12,
+    "Name": "Party 24/7",
+    "Url": "https://radiorecord.hostingradio.ru/party96.aacp"
+  },
+  {
+    "Id": 13,
+    "Name": "Рекорд 00-х",
+    "Url": "https://radiorecord.hostingradio.ru/200096.aacp"
+  },
+  {
+    "Id": 14,
+    "Name": "Megamix",
+    "Url": "https://radiorecord.hostingradio.ru/mix96.aacp"
+  }
+]
