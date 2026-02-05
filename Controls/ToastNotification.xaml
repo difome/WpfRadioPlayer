@@ -1,0 +1,28 @@
+<UserControl x:Class="RadioPlayer.Controls.ToastNotification"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="120">
+    <Popup x:Name="ToastPopup"
+           Placement="Absolute"
+           AllowsTransparency="True"
+           PopupAnimation="None"
+           StaysOpen="True"
+           IsOpen="False">
+        <Border Background="#FF1F1F1F"
+                CornerRadius="6"
+                Padding="12,8"
+                Opacity="0"
+                BorderBrush="#404040"
+                BorderThickness="1">
+            <TextBlock x:Name="ToastTextBlock" 
+                       Text="Скопировано" 
+                       Foreground="White" 
+                       FontSize="13"
+                       FontWeight="SemiBold"/>
+        </Border>
+    </Popup>
+</UserControl>
+

@@ -1,0 +1,55 @@
+<svg width="256" height="256" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="256" height="256" fill="#2D2D2D" rx="24"/>
+  
+  <!-- Radio body -->
+  <rect x="40" y="80" width="176" height="120" fill="#EDCC48" rx="12"/>
+  
+  <!-- Speaker grill -->
+  <rect x="55" y="95" width="70" height="70" fill="#2D2D2D" rx="6"/>
+  
+  <!-- Grill holes -->
+  <circle cx="70" cy="110" r="3" fill="#EDCC48"/>
+  <circle cx="85" cy="110" r="3" fill="#EDCC48"/>
+  <circle cx="100" cy="110" r="3" fill="#EDCC48"/>
+  <circle cx="110" cy="110" r="3" fill="#EDCC48"/>
+  
+  <circle cx="70" cy="125" r="3" fill="#EDCC48"/>
+  <circle cx="85" cy="125" r="3" fill="#EDCC48"/>
+  <circle cx="100" cy="125" r="3" fill="#EDCC48"/>
+  <circle cx="110" cy="125" r="3" fill="#EDCC48"/>
+  
+  <circle cx="70" cy="140" r="3" fill="#EDCC48"/>
+  <circle cx="85" cy="140" r="3" fill="#EDCC48"/>
+  <circle cx="100" cy="140" r="3" fill="#EDCC48"/>
+  <circle cx="110" cy="140" r="3" fill="#EDCC48"/>
+  
+  <circle cx="70" cy="155" r="3" fill="#EDCC48"/>
+  <circle cx="85" cy="155" r="3" fill="#EDCC48"/>
+  <circle cx="100" cy="155" r="3" fill="#EDCC48"/>
+  <circle cx="110" cy="155" r="3" fill="#EDCC48"/>
+  
+  <!-- Display screen -->
+  <rect x="140" y="95" width="65" height="30" fill="#2D2D2D" rx="4"/>
+  
+  <!-- Frequency indicator -->
+  <text x="172.5" y="115" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#EDCC48" text-anchor="middle">FM</text>
+  
+  <!-- Tuning dial -->
+  <circle cx="172.5" cy="145" r="18" fill="#2D2D2D"/>
+  <circle cx="172.5" cy="145" r="15" fill="#EDCC48"/>
+  <line x1="172.5" y1="145" x2="172.5" y2="135" stroke="#2D2D2D" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Antenna -->
+  <line x1="200" y1="80" x2="220" y2="50" stroke="#EDCC48" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="220" cy="50" r="4" fill="#EDCC48"/>
+  
+  <!-- Signal waves -->
+  <path d="M 90 50 Q 100 55 90 60" stroke="#EDCC48" stroke-width="3" fill="none" opacity="0.7" stroke-linecap="round"/>
+  <path d="M 100 45 Q 115 55 100 65" stroke="#EDCC48" stroke-width="3" fill="none" opacity="0.5" stroke-linecap="round"/>
+  <path d="M 110 40 Q 130 55 110 70" stroke="#EDCC48" stroke-width="3" fill="none" opacity="0.3" stroke-linecap="round"/>
+  
+  <!-- Bottom buttons -->
+  <rect x="55" y="175" width="25" height="15" fill="#2D2D2D" rx="3"/>
+  <rect x="90" y="175" width="25" height="15" fill="#2D2D2D" rx="3"/>
+</svg>

@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\views\\stationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:views\\stationsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:views\\favoritesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\views\\addstationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:views\\addstationdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\controls\\playercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:controls\\playercontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\controls\\playercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:controls\\playercontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\converters\\stringtogeometryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:converters\\stringtogeometryconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:converters\\stringtovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\views\\stationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:views\\stationsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\services\\bassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:services\\bassservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|c:\\users\\me\\desktop\\121\\radioplayer\\views\\favoritesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75312ED6-73FE-B7A1-F278-713788DFD6AB}|RadioPlayer.csproj|solutionrelative:views\\favoritesview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T23:10:31.11Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStationDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\AddStationDialog.xaml",
+              "RelativeDocumentMoniker": "Views\\AddStationDialog.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\AddStationDialog.xaml",
+              "RelativeToolTip": "Views\\AddStationDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T11:36:04.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerControl.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Controls\\PlayerControl.xaml",
+              "RelativeDocumentMoniker": "Controls\\PlayerControl.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Controls\\PlayerControl.xaml",
+              "RelativeToolTip": "Controls\\PlayerControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T22:52:27.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StationsView.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\StationsView.xaml",
+              "RelativeDocumentMoniker": "Views\\StationsView.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\StationsView.xaml",
+              "RelativeToolTip": "Views\\StationsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T23:19:46.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoritesView.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\FavoritesView.xaml",
+              "RelativeDocumentMoniker": "Views\\FavoritesView.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\FavoritesView.xaml",
+              "RelativeToolTip": "Views\\FavoritesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-04T23:20:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-05T13:04:04.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Controls\\PlayerControl.xaml.cs",
+              "RelativeDocumentMoniker": "Controls\\PlayerControl.xaml.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Controls\\PlayerControl.xaml.cs",
+              "RelativeToolTip": "Controls\\PlayerControl.xaml.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAMwJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:54:27.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringToGeometryConverter.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Converters\\StringToGeometryConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\StringToGeometryConverter.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Converters\\StringToGeometryConverter.cs",
+              "RelativeToolTip": "Converters\\StringToGeometryConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:03:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StringToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\StringToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Converters\\StringToVisibilityConverter.cs",
+              "RelativeToolTip": "Converters\\StringToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T13:03:50.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aad6be2495d0a786b94b3514a5b6903407fe2d6a75ad7e505df6a9d895927867\\XamlReader.cs",
+              "ViewState": "AgIAAK0BAAAAAAAAAADwv7UBAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:29:16.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StationsView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\StationsView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\StationsView.xaml.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\StationsView.xaml.cs",
+              "RelativeToolTip": "Views\\StationsView.xaml.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAcwJUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:30:29.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:54:47.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAswLMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T22:27:11.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BassService.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Services\\BassService.cs",
+              "RelativeDocumentMoniker": "Services\\BassService.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Services\\BassService.cs",
+              "RelativeToolTip": "Services\\BassService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:55:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs",
+              "ToolTip": "C:\\Users\\me\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ced412997d18be4a64e3cfd47a13ade7fb9157a0630c2b5c4f78999459dfbcca\\Application.cs [Read Only]",
+              "ViewState": "AgIAAO8FAAAAAAAAAAAiwAIGAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:30:30.166Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FavoritesView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\FavoritesView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\FavoritesView.xaml.cs",
+              "ToolTip": "C:\\Users\\me\\Desktop\\121\\RadioPlayer\\Views\\FavoritesView.xaml.cs",
+              "RelativeToolTip": "Views\\FavoritesView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:20:22.134Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
