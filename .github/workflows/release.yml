@@ -22,7 +22,7 @@ jobs:
         fetch-depth: 0
 
     - name: Setup .NET
-      uses: actions/setup-net@v4
+      uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 8.0.x
 
