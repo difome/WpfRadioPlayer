@@ -34,9 +34,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="Libs\bass.dll">
+    <Content Include="Libs\bass.dll">
+      <Link>bass.dll</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
+    </Content>
   </ItemGroup>
 
 </Project>
